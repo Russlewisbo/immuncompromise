@@ -1,0 +1,449 @@
+---
+title: "Immunosuppression: An overview"
+author: "Russell E. Lewis"
+date: "2026-03-01"
+format:
+  revealjs:
+    theme: custom.scss
+    slide-number: true
+    lightbox: true
+    chalkboard: true
+    preview-links: auto
+    width: 1920
+    height: 1080
+bibliography: references.bib
+csl: diagnostic-microbiology-and-infectious-disease.csl
+---
+
+## Immununosuppression: An Overview {background-color="#9B0014"}
+
+<br> <br>
+
+<center>
+
+Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of Padua
+
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} https://github.com/Russlewisbo
+
+<br> slides available at: www.padovaid.com
+
+</center>
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![](images/dmmunipd_logo.jpeg){width="150"} | ![](images/unipd_seal_white.svg){width="200"} |
+
+# Introduction & Epidemiology {background-color="#9B0014"}
+
+------------------------------------------------------------------------
+
+## The growing population of immunocompromised hosts
+
+<br>
+
+-   **6% of the US population** is immunocompromised [@Martinson2024]
+-   **2.8%** meet criteria for drug-induced immunosuppression [@Wallace2021]
+-   **1 in 5** people worldwide at risk for severe COVID-19 [@Clark2020]
+
+::: notes
+This is a rapidly growing population due to advances in transplantation, cancer therapy, and treatment of autoimmune diseases. The definition of "immunocompromised" varies significantly, which affects estimates.
+:::
+
+------------------------------------------------------------------------
+
+## What causes Immunocompromise?
+
+<br>
+
+**Major categories:**
+
+-   Active treatment for malignancies
+-   Solid organ transplant (SOT)
+-   Hematopoietic cell transplant (HCT)
+-   CAR-T cell therapy
+-   Primary immunodeficiency
+-   Advanced HIV infection
+-   High-dose corticosteroids & biologics
+
+# The Net State of Immunosuppression {background-color="#9B0014"}
+
+## Defining Net State of Immunosuppression
+
+<br>
+
+A concept by **Dr. Robert Rubin** (MGH Boston):
+
+> Composite of host factors, underlying disease, treatment, and other factors contributing to infection risk
+
+::: notes
+This remains one of the most useful conceptual frameworks for thinking about infection risk in immunocompromised patients. It emphasizes that no single test can quantify immunosuppression—clinical judgment integrating multiple factors is required.
+:::
+
+## Components of the Net State
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Host Factors**
+
+-   Advanced age
+-   Malnutrition
+-   Diabetes
+-   Organ dysfunction
+-   Hypogammaglobulinemia
+:::
+
+::: {.column width="50%"}
+**Treatment Factors**
+
+-   Immunosuppressive drugs
+-   Chemotherapy
+-   Radiation
+-   Surgery/hardware
+-   Duration of therapy
+:::
+:::::
+
+## Components (continued)
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Underlying Disease**
+
+-   Autoimmune disease
+-   Malignancy type
+-   Organ failure stage
+:::
+
+::: {.column width="50%"}
+**Infectious Factors**
+
+-   HIV, CMV, EBV status
+-   Microbiome alterations
+-   Prior infections
+:::
+:::::
+
+# Infectious Complications & Mortality {background-color="#9B0014"}
+
+## SOT Recipients
+
+<br>
+
+-   **6%** died from infection within first year (Swiss cohort) [@vanDelden2020]
+-   **55%** had infections in first year (German renal cohort) [@Sommerer2022]
+    -   Half occurred in first 3 months
+    -   Bacteria: 66%, Viruses: 29%, Fungi: 5%
+
+::: notes
+SOT recipients face particular risks from surgical complications, hardware-related infections, and the combination of surgical stress plus immunosuppression in the early post-transplant period.
+:::
+
+## HCT Recipients
+
+-   Infection is **2nd leading cause** of mortality (after relapse)
+-   First 100 days: **19-21%** mortality attributed to infection [@DSouza2018]
+-   Long-term survivors (\>2 years): **30%** mortality from infection [@Norkin2019]
+
+## CAR-T Cell Therapy
+
+-   Patients are **profoundly immunosuppressed**
+-   Up to **1/3** suffer serious bacterial infection in first 30 days [@Stewart2021]
+-   Cytokine release syndrome complicates assessment
+-   Prolonged B-cell aplasia → hypogammaglobulinemia
+
+# Measuring Immunosuppression {background-color="#9B0014"}
+
+## Available Markers
+
+::::: columns
+::: {.column width="50%"}
+**Useful in HIV:**
+
+-   CD4 count
+-   CD4 percentage
+-   CD4/CD8 ratio
+:::
+
+::: {.column width="50%"}
+**General markers:**
+
+-   Neutrophil count
+-   Lymphocyte count
+-   Immunoglobulin levels
+:::
+:::::
+
+::: notes
+Unfortunately, we lack reliable composite markers or algorithms to predict infection risk in most immunocompromised populations outside of HIV. Clinical judgment remains essential.
+:::
+
+## Emerging Biomarkers
+
+-   **Viral reactivation** (EBV, CMV, TTV, BK) → correlates with immunosuppression
+-   **QuantiFERON Monitor** → may identify over-immunosuppression
+-   **ImmuKnow assay** → correlates with infection/rejection risk
+-   Traditional markers (ESR, CRP, procalcitonin) → **NOT predictive**
+
+# Sources of Infection {background-color="#9B0014"}
+
+## Community-Acquired Pathogens
+
+-   Most common infections **mimic community pathogens**
+-   Immunocompromised may be "sentinel chickens"
+-   Respiratory viruses, GI pathogens
+-   *Norovirus*, *C. difficile*
+
+## Healthcare-Associated Pathogens
+
+-   **MDR organisms** due to frequent healthcare contact
+-   Catheter-related infections
+-   Pneumonia
+-   UTI
+
+## Reactivation of Latent Infections
+
+Key pathogens to screen for and monitor:
+
+-   *Mycobacterium tuberculosis*
+-   *Strongyloides*
+-   Hepatitis B
+-   *Coccidioides*, *Histoplasma*
+-   *Trypanosoma cruzi* (Chagas)
+
+## Donor-Derived Infections
+
+-   Organ transplant
+-   Stem cell transplant
+-   Blood products
+-   Usually within **first 6 months**
+
+## Timeline of Infection Risk
+
+```{=html}
+<iframe src="post_transplant_infections_light.html" width="100%" height="800px"></iframe>
+```
+
+
+# Components of Host Defense {background-color="#9B0014"}
+
+## Overview of Immune System
+
+::::: columns
+::: {.column width="50%"}
+**Innate Immunity**
+
+-   Granulocytes
+-   Monocytes/Macrophages
+-   NK cells
+-   Complement
+-   Physical barriers
+:::
+
+::: {.column width="50%"}
+**Acquired Immunity**
+
+-   Cellular (T cells)
+-   Humoral (B cells)
+-   Antibody production
+:::
+:::::
+
+## Granulocytes (Neutrophils)
+
+-   Chemotherapy & radiation → **neutropenia**
+-   Duration: 3-4 weeks or longer
+-   **Primary risk factor** for infection
+-   Risk increases with:
+    -   Depth of neutropenia
+    -   Duration of neutropenia
+    -   Concurrent organ dysfunction
+
+## Corticosteroid Effects on Neutrophils
+
+**Paradoxical effects:**
+
+-   ↑ Granulocytopoiesis (apparent benefit)
+-   BUT: ↓ Accumulation at infection site
+-   ↓ Adherent capacity
+-   ↓ Chemotaxis
+-   ↓ Phagocytosis
+-   ↓ Intracellular killing
+
+## Monocytes & Macrophages
+
+-   **Monocytopenia** parallels neutropenia
+-   Macrophage activation requires **T-cell cytokines** (IFN-γ)
+-   Explains cellular immunodeficiency susceptibility
+-   Targeted therapies can have **unexpected effects**
+
+::: aside
+Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has broader effects on macrophage function contributing to aspergillosis risk.
+:::
+
+## NK Cells and Platelets
+
+**NK Cells:**
+
+-   Respond to viruses and malignancy
+-   CD56 receptor → *Aspergillus* recognition
+-   Dysfunction contributes to fungal susceptibility
+
+**Platelets:**
+
+-   Increasingly recognized immune role
+-   Thrombocytopenia → independent bacteremia risk
+-   Protection against yeast and molds
+-   
+
+## Cellular Immunity
+
+**Drugs that impair T-cell function:**
+
+-   Corticosteroids
+-   Azathioprine, cyclosporine, tacrolimus
+-   mTOR inhibitors (sirolimus, everolimus)
+-   Purine analogues (fludarabine, cladribine)
+-   Alemtuzumab
+
+**Diseases:** Hodgkin lymphoma, CLL
+
+## Targeted Therapy Risks
+
+| Drug        | Mechanism          | Infection Risk       |
+|-------------|--------------------|----------------------|
+| Ruxolitinib | JAK-STAT inhibitor | TB, HBV reactivation |
+| Ibrutinib   | BTK inhibitor      | Aspergillosis, PJP   |
+| Idelalisib  | PI3K inhibitor     | *P. jirovecii*       |
+
+## Humoral Immunity
+
+-   **B cells** → antibody-secreting plasma cells
+-   Impaired in CLL, multiple myeloma
+-   Rituximab, CAR-T → **B-cell depletion**
+-   Profound, long-lasting hypogammaglobulinemia
+
+**Splenectomy:** Loss of encapsulated bacteria defense
+
+# Physical Barriers {background-color="#9B0014"}
+
+## The Integument
+
+**Skin:**
+
+-   Chemotherapy → hair loss, dryness
+-   Catheters → direct microbial access
+-   Broken skin → *S. aureus*, gram-negatives
+
+**Oropharynx:**
+
+-   Xerostomia + antibiotics → thrush, bacterial overgrowth
+
+## Alimentary Tract
+
+-   **Microbiome disruption** → *C. difficile*
+-   **Mucosal barrier injury** from chemotherapy
+-   Facilitates bacterial translocation
+-   Neutropenia allows progression to sepsis
+
+# Immunodeficiency-Pathogen Associations {background-color="#9B0014"}
+
+## Neutropenia: Gram-Positive Pathogens
+
+-   Coagulase-negative staphylococci \> <br> *Staphylococcus aureus*
+-   Viridans streptococci
+-   Enterococci
+
+## Neutropenia: Gram-Negative Pathogens
+
+-   *Escherichia coli*
+-   *Pseudomonas aeruginosa*
+-   *Klebsiella pneumoniae*
+-   *Enterobacter* spp.
+
+## Impaired Cellular Immunity
+
+::::: columns
+::: {.column width="50%"}
+**Bacteria/Mycobacteria:**
+
+-   *Listeria monocytogenes*
+-   *Nocardia* spp.
+-   *M. tuberculosis*
+-   Nontuberculous mycobacteria
+:::
+
+::: {.column width="50%"}
+**Fungi/Parasites:**
+
+-   *P. jirovecii*
+-   *Aspergillus* spp.
+-   *Cryptococcus* spp.
+-   *Toxoplasma gondii*
+:::
+:::::
+
+## Impaired Cellular Immunity (Viruses)
+
+-   Herpesviruses (HSV, VZV, CMV, EBV)
+-   Respiratory viruses
+-   Polyomaviruses (BK, JC)
+-   Human papillomavirus
+
+## Impaired Humoral Immunity
+
+-   *Streptococcus pneumoniae*
+-   *Haemophilus influenzae*
+-   *Neisseria meningitidis*
+-   Norovirus
+-   Hepatitis B virus
+
+# Prevention Strategies {background-color="#9B0014"}
+
+## Prophylaxis Principles
+
+**TMP-SMX for PJP** also covers:
+
+-   *Toxoplasma*
+-   *S. aureus*
+-   *Nocardia*
+-   Many gram-positives/negatives
+
+**Antiviral prophylaxis:** CMV, HSV, VZV prevention
+
+## Patient Education
+
+**High-risk exposures to avoid:**
+
+-   Gardening without protection (molds, *Nocardia*)
+-   Poor dental hygiene (*Actinomyces*, bacteremia)
+-   Marijuana smoking (*Aspergillus*)
+-   Raw seafood (*Vibrio*)
+-   Warm ocean swimming
+
+# Key Takeaways {background-color="#9B0014"}
+
+## Summary Points
+
+1.  **6% of population** is immunocompromised
+2.  **Net state of immunosuppression** = composite assessment
+3.  **First 100 days** = highest risk period
+4.  **No single marker** predicts infection risk
+5.  **Know pathogen associations** with specific defects
+6.  **Prophylaxis** significantly alters risk profile
+
+## Clinical Pearls
+
+::: callout-tip
+## Remember
+
+-   TMP-SMX provides broader coverage than just PJP prophylaxis
+-   Timing matters—early vs late infections differ
+-   Targeted therapies have unexpected infection risks
+-   Consider the whole patient, not just the lab values
+:::
+
+## References
