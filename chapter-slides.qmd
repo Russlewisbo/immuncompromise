@@ -41,9 +41,9 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 
 <br>
 
--   **6% of the US population** is immunocompromised [@Martinson2024]
+-   **Estimated 5-6% of the Italian population** is immunocompromised [@Martinson2024]
+-   **1%** of children fall into cohort of immunocompromised (VERDI project)
 -   **2.8%** meet criteria for drug-induced immunosuppression [@Wallace2021]
--   **1 in 5** people worldwide at risk for severe COVID-19 [@Clark2020]
 
 ::: notes
 This is a rapidly growing population due to advances in transplantation, cancer therapy, and treatment of autoimmune diseases. The definition of "immunocompromised" varies significantly, which affects estimates.
@@ -51,7 +51,7 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 
 ------------------------------------------------------------------------
 
-## What causes Immunocompromise?
+## What causes immunocompromise?
 
 <br>
 
@@ -65,17 +65,21 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 -   Advanced HIV infection
 -   High-dose corticosteroids & biologics
 
-# The Net State of Immunosuppression {background-color="#9B0014"}
+# The net state of immunosuppression {background-color="#9B0014"}
 
-## Defining Net State of Immunosuppression
+## Defining net state of immunosuppression
 
-<br>
+**A concept by Dr. Robert Rubin** (MGH Boston):
 
-A concept by **Dr. Robert Rubin** (MGH Boston):
+![](images/Rubin.png){fig-align="center" width="300"}
 
-> Composite of host factors, underlying disease, treatment, and other factors contributing to infection risk
+"Composite of host factors, underlying disease, treatment, and other factors contributing to infection risk"
 
-::: notes
+::: fragment
+"Every organ in the human body is interesting....but becomes more interesting when infected"
+:::
+
+::: aside
 This remains one of the most useful conceptual frameworks for thinking about infection risk in immunocompromised patients. It emphasizes that no single test can quantify immunosuppression—clinical judgment integrating multiple factors is required.
 :::
 
@@ -226,7 +230,6 @@ Key pathogens to screen for and monitor:
 ```{=html}
 <iframe src="post_transplant_infections_light.html" width="100%" height="800px"></iframe>
 ```
-
 
 # Components of Host Defense {background-color="#9B0014"}
 
