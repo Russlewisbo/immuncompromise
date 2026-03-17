@@ -69,7 +69,7 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 
 ## Defining net state of immunosuppression
 
-**A concept by Dr. Robert Rubin** (MGH Boston):
+<center>**A concept by Dr. Robert Rubin** (MGH Boston):</center>
 
 ![](images/Rubin.png){fig-align="center" width="300"}
 
@@ -83,12 +83,12 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 This remains one of the most useful conceptual frameworks for thinking about infection risk in immunocompromised patients. It emphasizes that no single test can quantify immunosuppression—clinical judgment integrating multiple factors is required.
 :::
 
-## Components of the Net State
+## Components of the "net state"
 
 <br>
 
-::::: columns
-::: {.column width="50%"}
+::::: {.columns style="justify-content: center;"}
+::: {.column width="50%" style="text-align: center;"}
 **Host Factors**
 
 -   Advanced age
@@ -98,7 +98,7 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 -   Hypogammaglobulinemia
 :::
 
-::: {.column width="50%"}
+::: {.column width="50%" style="text-align: center;"}
 **Treatment Factors**
 
 -   Immunosuppressive drugs
@@ -113,8 +113,8 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 
 <br>
 
-::::: columns
-::: {.column width="50%"}
+::::: {.columns style="justify-content: center;"}
+::: {.column width="50%" style="text-align: center;"}
 **Underlying Disease**
 
 -   Autoimmune disease
@@ -122,7 +122,7 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 -   Organ failure stage
 :::
 
-::: {.column width="50%"}
+::: {.column width="50%" style="text-align: center;"}
 **Infectious Factors**
 
 -   HIV, CMV, EBV status
@@ -146,25 +146,40 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 SOT recipients face particular risks from surgical complications, hardware-related infections, and the combination of surgical stress plus immunosuppression in the early post-transplant period.
 :::
 
-## HCT Recipients
+## Hematopoetic stem cell transplantation (HSCT) recipients
+<br>
 
 -   Infection is **2nd leading cause** of mortality (after relapse)
 -   First 100 days: **19-21%** mortality attributed to infection [@DSouza2018]
 -   Long-term survivors (\>2 years): **30%** mortality from infection [@Norkin2019]
 
-## CAR-T Cell Therapy
+## Timeline of Infection Risk
+
+```{=html}
+<iframe src="post_transplant_infections_light.html" width="100%" height="800px"></iframe>
+```
+
+
+## What is CAR-T therapy
+
+
+## Immunosuppresion timeline with CAR-T
+
+## CAR-T cell therapy
+<br>
 
 -   Patients are **profoundly immunosuppressed**
--   Up to **1/3** suffer serious bacterial infection in first 30 days [@Stewart2021]
+-   Up to 1/3 suffer serious bacterial infection in first 30 days [@Stewart2021]
 -   Cytokine release syndrome complicates assessment
 -   Prolonged B-cell aplasia → hypogammaglobulinemia
 
 # Measuring Immunosuppression {background-color="#9B0014"}
 
 ## Available Markers
+<br>
 
-::::: columns
-::: {.column width="50%"}
+::::: {.columns style="justify-content: center;"}
+::: {.column width="50%" style="text-align: center;"}
 **Useful in HIV:**
 
 -   CD4 count
@@ -172,7 +187,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 -   CD4/CD8 ratio
 :::
 
-::: {.column width="50%"}
+::: {.column width="50%" style="text-align: center;"}
 **General markers:**
 
 -   Neutrophil count
@@ -181,7 +196,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 :::
 :::::
 
-::: notes
+::: aside
 Unfortunately, we lack reliable composite markers or algorithms to predict infection risk in most immunocompromised populations outside of HIV. Clinical judgment remains essential.
 :::
 
@@ -194,21 +209,23 @@ Unfortunately, we lack reliable composite markers or algorithms to predict infec
 
 # Sources of Infection {background-color="#9B0014"}
 
-## Community-Acquired Pathogens
+## Community-acquired pathogens
+
+<br> 
 
 -   Most common infections **mimic community pathogens**
--   Immunocompromised may be "sentinel chickens"
+-   Immunocompromised patients "sentinel cases"
 -   Respiratory viruses, GI pathogens
 -   *Norovirus*, *C. difficile*
 
-## Healthcare-Associated Pathogens
+## Healthcare-associated pathogens
 
 -   **MDR organisms** due to frequent healthcare contact
 -   Catheter-related infections
 -   Pneumonia
 -   UTI
 
-## Reactivation of Latent Infections
+## Reactivation of latent infections
 
 Key pathogens to screen for and monitor:
 
@@ -224,12 +241,6 @@ Key pathogens to screen for and monitor:
 -   Stem cell transplant
 -   Blood products
 -   Usually within **first 6 months**
-
-## Timeline of Infection Risk
-
-```{=html}
-<iframe src="post_transplant_infections_light.html" width="100%" height="800px"></iframe>
-```
 
 # Components of Host Defense {background-color="#9B0014"}
 
