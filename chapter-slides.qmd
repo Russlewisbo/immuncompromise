@@ -147,6 +147,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 :::
 
 ## Hematopoetic stem cell transplantation (HSCT) recipients
+
 <br>
 
 -   Infection is **2nd leading cause** of mortality (after relapse)
@@ -159,13 +160,14 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 <iframe src="post_transplant_infections_light.html" width="100%" height="800px"></iframe>
 ```
 
-
 ## What is CAR-T therapy
 
+![](images/Chimeric Antigen Receptor (CAR) T Cell Therapy_ Vein-to-Vein Process.png){fig-align="center"}
 
 ## Immunosuppresion timeline with CAR-T
 
 ## CAR-T cell therapy
+
 <br>
 
 -   Patients are **profoundly immunosuppressed**
@@ -176,6 +178,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 # Measuring Immunosuppression {background-color="#9B0014"}
 
 ## Available Markers
+
 <br>
 
 ::::: {.columns style="justify-content: center;"}
@@ -211,7 +214,7 @@ Unfortunately, we lack reliable composite markers or algorithms to predict infec
 
 ## Community-acquired pathogens
 
-<br> 
+<br>
 
 -   Most common infections **mimic community pathogens**
 -   Immunocompromised patients "sentinel cases"
