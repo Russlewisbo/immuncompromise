@@ -83,7 +83,7 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 This remains one of the most useful conceptual frameworks for thinking about infection risk in immunocompromised patients. It emphasizes that no single test can quantify immunosuppression—clinical judgment integrating multiple factors is required.
 :::
 
-## Components of the "net state"
+## Components of the "net immunosuppresed state"
 
 <br>
 
@@ -135,20 +135,34 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 
 ## SOT Recipients
 
-<br>
-
+::::: columns
+::: {.column width="50%"}
 -   **6%** died from infection within first year (Swiss cohort) [@vanDelden2020]
 -   **55%** had infections in first year (German renal cohort) [@Sommerer2022]
     -   Half occurred in first 3 months
     -   Bacteria: 66%, Viruses: 29%, Fungi: 5%
+:::
 
-::: notes
+::: {.column width="50%"}
+![](images/sot.png){fig-align="center"}
+:::
+:::::
+
+<br>
+
+::: aside
 SOT recipients face particular risks from surgical complications, hardware-related infections, and the combination of surgical stress plus immunosuppression in the early post-transplant period.
 :::
 
 ## Hematopoetic stem cell transplantation (HSCT) recipients
 
-<br>
+## Allogeneic hematopoetic stem cell transplantation (HSCT) recipients
+
+![](images/allo_hcst.png){fig-align="center" width="800"}
+
+::: aside
+[@jenq2010]
+:::
 
 -   Infection is **2nd leading cause** of mortality (after relapse)
 -   First 100 days: **19-21%** mortality attributed to infection [@DSouza2018]
@@ -162,9 +176,15 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 
 ## What is CAR-T therapy
 
-![](images/Chimeric Antigen Receptor (CAR) T Cell Therapy_ Vein-to-Vein Process.png){fig-align="center"}
+![](images/Chimeric%20Antigen%20Receptor%20(CAR)%20T%20Cell%20Therapy_%20Vein-to-Vein%20Process.png){fig-align="center" width="800"}
 
 ## Immunosuppresion timeline with CAR-T
+
+![](images/car-t.png){fig-align="center"}
+
+::: aside
+[@maus2020]
+:::
 
 ## CAR-T cell therapy
 
@@ -205,6 +225,10 @@ Unfortunately, we lack reliable composite markers or algorithms to predict infec
 
 ## Emerging Biomarkers
 
+<br>
+
+![](images/immunoknow.png){fig-align="center" width="1200"}
+
 -   **Viral reactivation** (EBV, CMV, TTV, BK) → correlates with immunosuppression
 -   **QuantiFERON Monitor** → may identify over-immunosuppression
 -   **ImmuKnow assay** → correlates with infection/rejection risk
@@ -217,18 +241,22 @@ Unfortunately, we lack reliable composite markers or algorithms to predict infec
 <br>
 
 -   Most common infections **mimic community pathogens**
--   Immunocompromised patients "sentinel cases"
+-   Immunocompromised patients are often "sentinel cases" in outbreaks
 -   Respiratory viruses, GI pathogens
 -   *Norovirus*, *C. difficile*
 
 ## Healthcare-associated pathogens
 
--   **MDR organisms** due to frequent healthcare contact
+<br>
+
+-   **Increased risk of MDR organisms** due to frequent healthcare contact
 -   Catheter-related infections
 -   Pneumonia
 -   UTI
 
 ## Reactivation of latent infections
+
+<br>
 
 Key pathogens to screen for and monitor:
 
@@ -238,7 +266,7 @@ Key pathogens to screen for and monitor:
 -   *Coccidioides*, *Histoplasma*
 -   *Trypanosoma cruzi* (Chagas)
 
-## Donor-Derived Infections
+## Donor-derived infections
 
 -   Organ transplant
 -   Stem cell transplant
@@ -248,6 +276,8 @@ Key pathogens to screen for and monitor:
 # Components of Host Defense {background-color="#9B0014"}
 
 ## Overview of Immune System
+
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -271,26 +301,45 @@ Key pathogens to screen for and monitor:
 
 ## Granulocytes (Neutrophils)
 
+<br>
+
+::::: columns
+::: {.column width="50%"}
 -   Chemotherapy & radiation → **neutropenia**
+
 -   Duration: 3-4 weeks or longer
+
 -   **Primary risk factor** for infection
+
 -   Risk increases with:
+
     -   Depth of neutropenia
     -   Duration of neutropenia
-    -   Concurrent organ dysfunction
 
-## Corticosteroid Effects on Neutrophils
+-   Concurrent organ dysfunction
+:::
+
+::: {.column width="50%"}
+![](images/hematopoesis.png)
+:::
+:::::
+
+## Corticosteroid effects on neutrophils
+
+<br>
 
 **Paradoxical effects:**
 
 -   ↑ Granulocytopoiesis (apparent benefit)
--   BUT: ↓ Accumulation at infection site
+    -   BUT: ↓ Accumulation at infection site
 -   ↓ Adherent capacity
 -   ↓ Chemotaxis
 -   ↓ Phagocytosis
 -   ↓ Intracellular killing
 
 ## Monocytes & Macrophages
+
+<br>
 
 -   **Monocytopenia** parallels neutropenia
 -   Macrophage activation requires **T-cell cytokines** (IFN-γ)
@@ -301,7 +350,15 @@ Key pathogens to screen for and monitor:
 Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has broader effects on macrophage function contributing to aspergillosis risk.
 :::
 
-## NK Cells and Platelets
+## Ibrutinib
+
+![](images/ibrutinib.png){fig-align="center"}
+
+## Unexpected fungal infections
+
+![](images/cns_aspergillosis.png){fig-align="center"}
+
+## NK cells and platelets
 
 **NK Cells:**
 
@@ -312,11 +369,14 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 **Platelets:**
 
 -   Increasingly recognized immune role
--   Thrombocytopenia → independent bacteremia risk
--   Protection against yeast and molds
--   
 
-## Cellular Immunity
+-   Thrombocytopenia → independent bacteremia risk
+
+-   Protection against yeast and molds
+
+## Cellular immunity
+
+<br>
 
 **Drugs that impair T-cell function:**
 
@@ -328,7 +388,9 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 
 **Diseases:** Hodgkin lymphoma, CLL
 
-## Targeted Therapy Risks
+## Targeted therapy risks
+
+<br>
 
 | Drug        | Mechanism          | Infection Risk       |
 |-------------|--------------------|----------------------|
@@ -336,14 +398,34 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 | Ibrutinib   | BTK inhibitor      | Aspergillosis, PJP   |
 | Idelalisib  | PI3K inhibitor     | *P. jirovecii*       |
 
-## Humoral Immunity
+<br>
+
+If you see a drug ending in "mab" or "nib" or "sib" ....consider unique infection risk
+
+::: aside
+mab- monoclonal antibody-large protein biologic usually IV that binds extracellular targets (receptors, cytokines, cells); nib-small molecule inhibitor, usually oral- Enters cells and block intracellular signaling pathways;sib- signal inhibitor or nib-like drug
+:::
+
+## Humoral immunity
 
 -   **B cells** → antibody-secreting plasma cells
 -   Impaired in CLL, multiple myeloma
 -   Rituximab, CAR-T → **B-cell depletion**
 -   Profound, long-lasting hypogammaglobulinemia
 
-**Splenectomy:** Loss of encapsulated bacteria defense
+**Splenectomy:** Loss of encapsulated bacteria defense-big 3
+
+-   *Streptococcus pneumoniae*
+
+-   *Haemophilus influenzae* type B
+
+-   *Neisseria meningitidis*
+
+<br>
+
+Less common: *Capnocytophaga canimorsus, Salmonella spp. E. coli*
+
+PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 weeks before elective splenectomy or 2 weeks after emergency splenetocmy
 
 # Physical Barriers {background-color="#9B0014"}
 
@@ -361,20 +443,26 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 
 ## Alimentary Tract
 
--   **Microbiome disruption** → *C. difficile*
--   **Mucosal barrier injury** from chemotherapy
+<br>
+
+-   **Microbiome disruption** with antibiotics→ *C. difficile*
+-   Mucosal barrier injury from chemotherapy
 -   Facilitates bacterial translocation
--   Neutropenia allows progression to sepsis
+-   With concomitant neutropenia allows progression to sepsis
 
 # Immunodeficiency-Pathogen Associations {background-color="#9B0014"}
 
-## Neutropenia: Gram-Positive Pathogens
+## Neutropenia: Gram-positive pathogens
 
--   Coagulase-negative staphylococci \> <br> *Staphylococcus aureus*
+<br>
+
+-   Coagulase-negative staphylococci more common than <br> *Staphylococcus aureus* (central venous catheter)
 -   Viridans streptococci
 -   Enterococci
 
-## Neutropenia: Gram-Negative Pathogens
+## Neutropenia: Gram-Negative Pathogensù
+
+<br>
 
 -   *Escherichia coli*
 -   *Pseudomonas aeruginosa*
@@ -383,40 +471,65 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 
 ## Impaired Cellular Immunity
 
+<br>
+
 ::::: columns
 ::: {.column width="50%"}
 **Bacteria/Mycobacteria:**
 
 -   *Listeria monocytogenes*
--   *Nocardia* spp.
--   *M. tuberculosis*
--   Nontuberculous mycobacteria
-:::
 
-::: {.column width="50%"}
+-   *Nocardia* spp.
+
+-   *M. tuberculosis*
+
+-   Nontuberculous mycobacteria
+
 **Fungi/Parasites:**
 
 -   *P. jirovecii*
+
 -   *Aspergillus* spp.
+
 -   *Cryptococcus* spp.
+
 -   *Toxoplasma gondii*
+:::
+
+::: {.column width="50%"}
+![](images/cell_mediated.png){width="800"}
 :::
 :::::
 
 ## Impaired Cellular Immunity (Viruses)
 
+::::: columns
+::: {.column width="50%"}
 -   Herpesviruses (HSV, VZV, CMV, EBV)
 -   Respiratory viruses
 -   Polyomaviruses (BK, JC)
 -   Human papillomavirus
+:::
+
+::: {.column width="50%"}
+![](images/cell_mediated2.png){width="800"}
+:::
+:::::
 
 ## Impaired Humoral Immunity
 
+::::: columns
+::: {.column width="50%"}
 -   *Streptococcus pneumoniae*
 -   *Haemophilus influenzae*
 -   *Neisseria meningitidis*
 -   Norovirus
 -   Hepatitis B virus
+:::
+
+::: {.column width="50%"}
+:::
+:::::
 
 # Prevention Strategies {background-color="#9B0014"}
 
