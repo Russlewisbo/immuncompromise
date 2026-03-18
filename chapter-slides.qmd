@@ -154,19 +154,33 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 SOT recipients face particular risks from surgical complications, hardware-related infections, and the combination of surgical stress plus immunosuppression in the early post-transplant period.
 :::
 
-## Hematopoetic stem cell transplantation (HSCT) recipients
+## Hematopoetic stem cell transplantation (HSCT) recipients {.smaller}
 
-## Allogeneic hematopoetic stem cell transplantation (HSCT) recipients
+<br>
 
-![](images/allo_hcst.png){fig-align="center" width="800"}
+| Type | Stem Cell Source | Donor | Immunosuppression |
+|----------------|-------------------|----------------|----------------------|
+| **Autologous** | Peripheral blood, Bone marrow | Self | Moderate; no GvHD prophylaxis required; recovery within weeks |
+| **Allogeneic — matched related** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched sibling or family member | Severe; prolonged due to GvHD prophylaxis and risk of GvHD |
+| **Allogeneic — matched unrelated (MUD)** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched unrelated donor (registry) | Very severe; higher GvHD risk than matched related; intensive prophylaxis |
+| **Allogeneic — haploidentical** | Peripheral blood, Bone marrow | Half-matched family member (parent, child, sibling) | Very severe; requires intensive T-cell depletion or post-transplant cyclophosphamide |
+| **Allogeneic — umbilical cord blood** | Umbilical cord blood | Unrelated cord blood unit | Very severe; delayed immune reconstitution due to low cell dose |
+
+## Allogeneic hematopoetic stem cell<br> transplantation (HSCT) recipients
+
+<br>
+
+![](images/allo_hcst.png){fig-align="center" width="900"}
 
 ::: aside
-[@jenq2010]
-:::
+<center>
 
--   Infection is **2nd leading cause** of mortality (after relapse)
+-   Infection is **2nd leading cause** of mortality (after relapse) [@jenq2010]
 -   First 100 days: **19-21%** mortality attributed to infection [@DSouza2018]
 -   Long-term survivors (\>2 years): **30%** mortality from infection [@Norkin2019]
+
+</center>
+:::
 
 ## Timeline of Infection Risk
 
@@ -551,15 +565,12 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 
 **Antiviral prophylaxis:** Val(acyclovir) for CMV (weak activity), HSV, VZV prevention. Valganciclovir or letermovir for higher risk CMV patients
 
-
-
-:::aside
-
+::: aside
 Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. Can use - 1 DS tablet 3×/week (e.g., Mon–Wed–Fri) or even single-strength daily. Add folic acid if patient has anemia or leukopenia. Valganciclovir is assocaited with dose-limiting myelosuppression. Letermovir has fewer adverse effects but is more expensive
-
 :::
 
 ## Patient Education
+
 <br>
 
 **High-risk exposures to avoid:**
