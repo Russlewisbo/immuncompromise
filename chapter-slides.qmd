@@ -237,7 +237,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 Unfortunately, we lack reliable composite markers or algorithms to predict infection risk in most immunocompromised populations outside of HIV. Clinical judgment remains essential.
 :::
 
-## Emerging Biomarkers
+## Emerging biomarkers
 
 <br>
 
@@ -289,7 +289,7 @@ Key pathogens to screen for and monitor:
 
 # Components of Host Defense {background-color="#9B0014"}
 
-## Overview of Immune System
+## Overview of immune system
 
 <br>
 
@@ -313,7 +313,7 @@ Key pathogens to screen for and monitor:
 :::
 :::::
 
-## Granulocytes (Neutrophils)
+## Granulocytes (neutrophils)
 
 <br>
 
@@ -351,7 +351,7 @@ Key pathogens to screen for and monitor:
 -   ↓ Phagocytosis
 -   ↓ Intracellular killing
 
-## Monocytes & Macrophages
+## Monocytes & macrophages
 
 <br>
 
@@ -366,13 +366,15 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 
 ## Ibrutinib
 
-![](images/ibrutinib.png){fig-align="center"}
+![](images/ibrutinib.png){fig-align="center" width="1600"}
 
 ## Unexpected fungal infections
 
-![](images/cns_aspergillosis.png){fig-align="center"}
+![](images/cns_aspergillosis.png){fig-align="center" width="1600"}
 
 ## NK cells and platelets
+
+<br>
 
 **NK Cells:**
 
@@ -422,6 +424,8 @@ mab- monoclonal antibody-large protein biologic usually IV that binds extracellu
 
 ## Humoral immunity
 
+<br>
+
 -   **B cells** → antibody-secreting plasma cells
 -   Impaired in CLL, multiple myeloma
 -   Rituximab, CAR-T → **B-cell depletion**
@@ -442,6 +446,8 @@ Less common: *Capnocytophaga canimorsus, Salmonella spp. E. coli*
 PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 weeks before elective splenectomy or 2 weeks after emergency splenetocmy
 
 # Physical Barriers {background-color="#9B0014"}
+
+<br>
 
 ## The Integument
 
@@ -470,11 +476,11 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 
 <br>
 
--   Coagulase-negative staphylococci more common than <br> *Staphylococcus aureus* (central venous catheter)
+-   Coagulase-negative staphylococci more common than <br> *Staphylococcus aureus* (most are from central venous catheter)
 -   Viridans streptococci
 -   Enterococci
 
-## Neutropenia: Gram-Negative Pathogens
+## Neutropenia: Gram-negative pathogens
 
 <br>
 
@@ -483,7 +489,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 -   *Klebsiella pneumoniae*
 -   *Enterobacter* spp.
 
-## Impaired Cellular Immunity
+## Impaired cellular immunity
 
 <br> <br>
 
@@ -515,7 +521,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 :::
 :::::
 
-## Impaired cellular immunity (Viruses)
+## Impaired cellular immunity (viruses)
 
 <br> <br>
 
@@ -532,7 +538,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 :::
 :::::
 
-## Impaired Humoral Immunity
+## Impaired humoral immunity
 
 <br> <br>
 
@@ -569,7 +575,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. Can use - 1 DS tablet 3×/week (e.g., Mon–Wed–Fri) or even single-strength daily. Add folic acid if patient has anemia or leukopenia. Valganciclovir is assocaited with dose-limiting myelosuppression. Letermovir has fewer adverse effects but is more expensive
 :::
 
-## Patient Education
+## Patient education
 
 <br>
 
@@ -583,7 +589,7 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 
 # Key Takeaways {background-color="#9B0014"}
 
-## Summary Points
+## Summary points
 
 1.  **6% of population** is immunocompromised
 2.  **Net state of immunosuppression** = composite assessment
@@ -593,6 +599,8 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 6.  **Prophylaxis** significantly alters risk profile
 
 ## Clinical Pearls
+
+<br> <br>
 
 ::: callout-tip
 ## Remember
@@ -604,3 +612,5 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 :::
 
 ## References
+
+<br>
