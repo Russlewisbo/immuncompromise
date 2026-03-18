@@ -460,7 +460,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 -   Viridans streptococci
 -   Enterococci
 
-## Neutropenia: Gram-Negative Pathogensù
+## Neutropenia: Gram-Negative Pathogens
 
 <br>
 
@@ -471,7 +471,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 
 ## Impaired Cellular Immunity
 
-<br>
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -501,7 +501,9 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 :::
 :::::
 
-## Impaired Cellular Immunity (Viruses)
+## Impaired cellular immunity (Viruses)
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -518,6 +520,8 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 
 ## Impaired Humoral Immunity
 
+<br> <br>
+
 ::::: columns
 ::: {.column width="50%"}
 -   *Streptococcus pneumoniae*
@@ -528,21 +532,32 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 :::
 
 ::: {.column width="50%"}
+![](images/antibody.png)
 :::
 :::::
 
 # Prevention Strategies {background-color="#9B0014"}
 
-## Prophylaxis Principles
+## Prophylaxis principles
 
-**TMP-SMX for PJP** also covers:
+<br>
+
+**TMP-SMX for PJP** :typically 1 DS tablet daily also covers:
 
 -   *Toxoplasma*
 -   *S. aureus*
 -   *Nocardia*
 -   Many gram-positives/negatives
 
-**Antiviral prophylaxis:** CMV, HSV, VZV prevention
+**Antiviral prophylaxis:** Val(acyclovir) for CMV (weak), HSV, VZV prevention. Valganciclovir or letermovir for higher risk CMV patients
+
+
+
+:::aside
+
+Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. Can use - 1 DS tablet 3×/week (e.g., Mon–Wed–Fri) or even single-strength daily. Add folic acid if patient has anemia or leukopenia. Valganciclovir is assocaited with dose-limiting myelosuppression. Letermovir has fewer adverse effects but is more expensive
+
+:::
 
 ## Patient Education
 
