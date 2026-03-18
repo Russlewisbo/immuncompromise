@@ -549,7 +549,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 -   *Nocardia*
 -   Many gram-positives/negatives
 
-**Antiviral prophylaxis:** Val(acyclovir) for CMV (weak), HSV, VZV prevention. Valganciclovir or letermovir for higher risk CMV patients
+**Antiviral prophylaxis:** Val(acyclovir) for CMV (weak activity), HSV, VZV prevention. Valganciclovir or letermovir for higher risk CMV patients
 
 
 
@@ -560,6 +560,7 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 :::
 
 ## Patient Education
+<br>
 
 **High-risk exposures to avoid:**
 
@@ -575,7 +576,7 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 
 1.  **6% of population** is immunocompromised
 2.  **Net state of immunosuppression** = composite assessment
-3.  **First 100 days** = highest risk period
+3.  **First 100 days aftyer transplant** = highest risk period
 4.  **No single marker** predicts infection risk
 5.  **Know pathogen associations** with specific defects
 6.  **Prophylaxis** significantly alters risk profile
