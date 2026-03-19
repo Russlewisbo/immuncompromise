@@ -1,7 +1,7 @@
 ---
 title: "Infections in the Immunocompromised Host: General Principles"
 author:
-  - name: Russell Lewis
+  - name: Prof. Russell E. Lewis
 format:
   html:
     toc: true
@@ -15,8 +15,6 @@ bibliography: references.bib
 Given advances in medicine, including increased longevity and improved outcomes with various medical conditions, we are facing an ever-enlarging population of immunocompromised hosts. Although fairly heterogenous, it has been estimated that 6% of the population in the United States is immunocompromised [@Martinson2024]. The Italian estaimtes of immunocompromised population are between 4-6%. Using direct pharmaceutical claims in a large cohort of adults in the United States to describe the contemporary prevalence of drug-induced immunosuppression (including corticosteroids, antirejection medications, tumor necrosis factor inhibitors, antineoplastic agents, and other biologic medications), Wallace and colleagues found that 2.8% of the population met the criteria for drug-induced immunosuppression during the period January 1, 2018 through December 31, 2019 [@Wallace2021]. Using a broader definition, Clark and associates found that an estimated 1 in 5 people throughout the world were at risk for severe COVID-19, based on risk factors such as age, chronic kidney disease, diabetes, cardiovascular disease, and chronic respiratory disease [@Clark2020]. The immunocompromised host thus constitutes a sizeable and growing proportion of the population, with estimates contingent on the definition used.
 
 A definition of those considered to have moderate-to-severe immune compromise, as determined by the United States Centers for Disease Control and Prevention (CDC) appears in @tbl-conditions. Factors to consider in assessing the general level of immunosuppression in an individual patient include disease severity, duration, clinical stability, complications, comorbidities, and any potentially immunosuppressive medications or therapies. In an era of increasingly complex medical care, many patients have extensive prior treatments and immunosuppression that render them at higher risk for infectious complications when they undergo subsequent therapies, such as transplant (hematopoietic cell or solid organ) or CAR-T cell therapy [@Maschmeyer2019]. Some agents, such as fludarabine, antithymocyte globulin, and alemtuzumab, can affect the immune system for many months afterward. In addition, complications such as mucositis, cytopenias, and surgical site infections can increase vulnerability for infection. Fortunately, some people who were previously considered to have significant immunocompromise, such as those persons living with HIV (PLWHIV) who have low CD4 counts but a robust response to antiretroviral therapy (ART), or those receiving less immunosuppressive cancer therapies than prior regimens would no longer be considered as having moderate-to-severe immune compromise.
-
-## Major Conditions Leading to Immunocompromise {#tbl-conditions}
 
 | Immunocompromising Conditions and/or Therapies |
 |:-----------------------------------------------|
@@ -32,7 +30,8 @@ A definition of those considered to have moderate-to-severe immune compromise, a
 | - Cancer chemotherapeutic agents classified as severely immunosuppressive |
 | - Tumor-necrosis factor blockers and other biologic agents that are immunosuppressive or immunomodulatory |
 
-*Modified from references 115 and 116.*
+: Major Conditions Leading to Immunocompromise {#tbl-conditions}
+
 
 ## The Net State of Immunosuppression
 
@@ -161,8 +160,6 @@ Nontuberculous mycobacteria cause infections in solid organ transplant recipient
 
 
 
-## Immunodeficiencies and Associated Prevalent Pathogens {#tbl-pathogens}
-
 | DEFECT | PATHOGEN |
 |:-------|:---------|
 | **Neutropenia** | |
@@ -235,5 +232,7 @@ Nontuberculous mycobacteria cause infections in solid organ transplant recipient
 | JAK-STAT inhibitor (ruxolitinib); downregulates proinflammatory cytokines, impairs dendritic cell, natural killer cell, and CD4^+^ T-cell function | *Mycobacterium tuberculosis* |
 | | Hepatitis B reactivation |
 | PI3K inhibitor (idelalisib); specific inhibitor of phosphatidylinositol 3-kinase delta-Akt pathway B-lymphocyte signaling | *Pneumocystis jirovecii* |
+
+: Immunodeficiencies and Associated Prevalent Pathogens {#tbl-pathogens}
 
 # References
