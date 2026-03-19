@@ -1,10 +1,7 @@
 ---
 title: "Infections in the Immunocompromised Host: General Principles"
-subtitle: "Chapter 310"
 author:
-  - name: Nicole M.A. Blijlevens
-  - name: Steven A. Pergam
-  - name: Camille N. Kotton
+  - name: Russell Lewis
 format:
   html:
     toc: true
@@ -15,13 +12,36 @@ bibliography: references.bib
 
 # Introduction
 
-Given advances in medicine, including increased longevity and improved outcomes with various medical conditions, we are facing an ever-enlarging population of immunocompromised hosts. Although fairly heterogenous, it has been estimated that 6% of the population in the United States is immunocompromised [@Martinson2024]. Using direct pharmaceutical claims in a large cohort of adults in the United States to describe the contemporary prevalence of drug-induced immunosuppression (including corticosteroids, antirejection medications, tumor necrosis factor inhibitors, antineoplastic agents, and other biologic medications), Wallace and colleagues found that 2.8% of the population met the criteria for drug-induced immunosuppression during the period January 1, 2018 through December 31, 2019 [@Wallace2021]. Using a broader definition, Clark and associates found that an estimated 1 in 5 people throughout the world were at risk for severe COVID-19, based on risk factors such as age, chronic kidney disease, diabetes, cardiovascular disease, and chronic respiratory disease [@Clark2020]. The immunocompromised host thus constitutes a sizeable and growing proportion of the population, with estimates contingent on the definition used.
+Given advances in medicine, including increased longevity and improved outcomes with various medical conditions, we are facing an ever-enlarging population of immunocompromised hosts. Although fairly heterogenous, it has been estimated that 6% of the population in the United States is immunocompromised [@Martinson2024]. The Italian estaimtes of immunocompromised population are between 4-6%. Using direct pharmaceutical claims in a large cohort of adults in the United States to describe the contemporary prevalence of drug-induced immunosuppression (including corticosteroids, antirejection medications, tumor necrosis factor inhibitors, antineoplastic agents, and other biologic medications), Wallace and colleagues found that 2.8% of the population met the criteria for drug-induced immunosuppression during the period January 1, 2018 through December 31, 2019 [@Wallace2021]. Using a broader definition, Clark and associates found that an estimated 1 in 5 people throughout the world were at risk for severe COVID-19, based on risk factors such as age, chronic kidney disease, diabetes, cardiovascular disease, and chronic respiratory disease [@Clark2020]. The immunocompromised host thus constitutes a sizeable and growing proportion of the population, with estimates contingent on the definition used.
 
 A definition of those considered to have moderate-to-severe immune compromise, as determined by the United States Centers for Disease Control and Prevention (CDC) appears in @tbl-conditions. Factors to consider in assessing the general level of immunosuppression in an individual patient include disease severity, duration, clinical stability, complications, comorbidities, and any potentially immunosuppressive medications or therapies. In an era of increasingly complex medical care, many patients have extensive prior treatments and immunosuppression that render them at higher risk for infectious complications when they undergo subsequent therapies, such as transplant (hematopoietic cell or solid organ) or CAR-T cell therapy [@Maschmeyer2019]. Some agents, such as fludarabine, antithymocyte globulin, and alemtuzumab, can affect the immune system for many months afterward. In addition, complications such as mucositis, cytopenias, and surgical site infections can increase vulnerability for infection. Fortunately, some people who were previously considered to have significant immunocompromise, such as those persons living with HIV (PLWHIV) who have low CD4 counts but a robust response to antiretroviral therapy (ART), or those receiving less immunosuppressive cancer therapies than prior regimens would no longer be considered as having moderate-to-severe immune compromise.
+
+## Major Conditions Leading to Immunocompromise {#tbl-conditions}
+
+| Immunocompromising Conditions and/or Therapies |
+|:-----------------------------------------------|
+| Active treatment for solid tumor or hematologic malignancies |
+| Immunosuppressive therapy for solid-organ transplant |
+| CAR T-cell or hematopoietic stem cell transplant |
+| Moderate or severe primary immunodeficiency (e.g., DiGeorge syndrome, Wiskott-Aldrich syndrome) |
+| Advanced or untreated HIV infection |
+| Active treatment with: |
+| - High-dose corticosteroids (i.e., ≥20 mg prednisone or equivalent per day) |
+| - Alkylating agents, antimetabolites |
+| - Transplant-related immunosuppressive drugs |
+| - Cancer chemotherapeutic agents classified as severely immunosuppressive |
+| - Tumor-necrosis factor blockers and other biologic agents that are immunosuppressive or immunomodulatory |
+
+*Modified from references 115 and 116.*
 
 ## The Net State of Immunosuppression
 
 The "net state of immunosuppression," a term originally described by Dr. Robert Rubin at Massachusetts General Hospital in Boston, represents a composite of host, underlying disease, treatment, and other factors that may contribute to an augmented risk of infection. Autoimmune diseases (i.e., lupus, rheumatoid arthritis, sarcoidosis, others) often have higher rates of infection, even without immunosuppressive therapies. Advanced organ disease, such as kidney, liver, heart, and lung disease for those awaiting organ transplant, as well as other comorbidities or conditions (i.e., poorly controlled diabetes, obesity, malnutrition, weight loss, hypogammaglobulinemia) and advanced age can all augment infection risk. Acute issues around the time of treatment, such as the need for renal replacement therapy, hemorrhage, long ischemic times and/or need for retransplantation of an organ, long intensive care unit stays, and extensive transfusion needs can all augment the risk of infection. Some concomitant infections, such as human immunodeficiency virus (HIV), cytomegalovirus (CMV), Epstein-Barr virus (EBV) or alterations in the microbiome can also contribute to the net state of immunosuppression. Certain infections can cause or contribute to secondary immune deficiencies, including lymphopenia, cytokine storm, and transient or long-term immunosuppression [@Bonagura2020]. Exogenous immunosuppression is perhaps the most obvious contributor and is often used at higher doses initially followed by chronic doses [@Roberts2021]. Treatment of organ transplant rejection or graft-versus-host disease (GVHD) can cause extended periods of high infection risk. It is important to consider an individual patient's risk based on all these issues, and consider best methods of prevention, as well as most likely diagnoses in the setting of suspected infection.
+
+:::{.callout-note}
+## Clinical Pearl
+The "net state of immunosuppression" is a composite measure that includes host factors, underlying disease, treatment effects, and other variables that contribute to infection risk. This concept helps clinicians assess individual patient risk and guide preventive strategies.
+:::
 
 ## Infectious Complications and Mortality
 
@@ -43,7 +63,19 @@ A plethora of pathogens can infect the immunocompromised host, from many differe
 
 Solid organ and stem cell transplant recipients are at highest risk for infection in the first 100 days after transplant, with the risk gradually falling over the next 1–2 years. Similarly, patients treated with more intense immunosuppressive regimens for autoimmune diseases are at higher risk in the first few months after treatment is started. Some infections may occur much later, such as PML in patients on natalizumab, hepatitis B in those on rituximab, or shingles in those with autoimmune disease.
 
-Active prophylaxis, often given as per local protocol, alters the risk of the various infections and can help guide the differential diagnosis. Prophylaxis against *Pneumocystis* includes trimethoprim-sulfamethoxazole, which can prevent a variety of other pathogens, ranging from *Toxoplasma* to *Staphylococcus aureus* and *Nocardia*, as well as numerous other gram-positive and gram-negative organisms. Substitutes such as atovaquone, dapsone, and inhaled pentamidine have much narrower coverage with many more breakthrough infections seen. Anti-herpes viral prophylaxis with valganciclovir, letermovir, acyclovir, valacyclovir, and famciclovir can greatly decrease the risk for CMV, herpes simplex, and disseminated zoster. Individualized prophylaxis with isoniazid or rifampin for latent tuberculosis, ivermectin for *Strongyloides*, antiviral therapy or routine screening for those at risk for reactivation hepatitis B, and antifungal therapy for those with latent *Coccidioides* can significantly decrease infectious complications. Pre-immunosuppression vaccination, when possible, along with subsequent appropriate vaccination (optimally during periods of lower or no immunosuppression) also decreases the risk of vaccine-preventable illness.
+:::{.callout-note}
+## Key Point: Timing of Infections
+Solid organ and stem cell transplant recipients are at highest risk for infection in the first 100 days after transplant, with the risk gradually falling over the next 1–2 years. The timing of specific infections varies based on the type of immunosuppression and prophylactic strategies used.
+:::
+
+Active prophylaxis, often given as per local protocol, alters the risk of the various infections and can help guide the differential diagnosis. Prophylaxis against *Pneumocystis* includes trimethoprim-sulfamethoxazole, which can prevent a variety of other pathogens, ranging from *Toxoplasma* to *Staphylococcus aureus* and *Nocardia*, as well as numerous other gram-positive and gram-negative organisms. Substitutes such as atovaquone, dapsone, and inhaled pentamidine have much narrower coverage with many more breakthrough infections seen.
+
+:::{.callout-note}
+## Clinical Pearl: Prophylaxis
+Trimethoprim-sulfamethoxazole prophylaxis against *Pneumocystis* also provides coverage against *Toxoplasma*, *Staphylococcus aureus*, *Nocardia*, and numerous other gram-positive and gram-negative organisms. Substitutes such as atovaquone, dapsone, and inhaled pentamidine have much narrower coverage.
+:::
+
+Anti-herpes viral prophylaxis with valganciclovir, letermovir, acyclovir, valacyclovir, and famciclovir can greatly decrease the risk for CMV, herpes simplex, and disseminated zoster. Individualized prophylaxis with isoniazid or rifampin for latent tuberculosis, ivermectin for *Strongyloides*, antiviral therapy or routine screening for those at risk for reactivation hepatitis B, and antifungal therapy for those with latent *Coccidioides* can significantly decrease infectious complications. Pre-immunosuppression vaccination, when possible, along with subsequent appropriate vaccination (optimally during periods of lower or no immunosuppression) also decreases the risk of vaccine-preventable illness.
 
 Discussing exposure history with the patient and family may be useful in guiding the differential diagnosis. For example, those who garden without masks or skin protection may be at higher risk for infection from molds, *Nocardia*, nontuberculous mycobacteria, and other bacterial infections. Lack of routine dental care augments the risk of bacteremia due to oral flora and infections from *Actinomyces*. Those who smoke marijuana may be at higher risk for infections from *Aspergillus* and other molds. Teachers and other childcare workers may have higher rates of exposure to respiratory and gastrointestinal (GI) viruses. Swimming in warm ocean waters and consumption of raw seafood augments the risk of *Vibrio* and other infections. Dedicated education on these topics may decrease the risk of infection.
 
@@ -127,27 +159,9 @@ Bacteremia remains a significant problem in immunocompromised hosts, with gram-n
 
 Nontuberculous mycobacteria cause infections in solid organ transplant recipients and those with other immunosuppression [@Abad2016; @Tabaja2022]. Some cases may be due to interferon-gamma autoantibodies [@Valour2016].
 
-# Tables {#sec-tables}
 
-## Table 310.1: Major Conditions Leading to Immunocompromise {#tbl-conditions}
 
-| Immunocompromising Conditions and/or Therapies |
-|:-----------------------------------------------|
-| Active treatment for solid tumor or hematologic malignancies |
-| Immunosuppressive therapy for solid-organ transplant |
-| CAR T-cell or hematopoietic stem cell transplant |
-| Moderate or severe primary immunodeficiency (e.g., DiGeorge syndrome, Wiskott-Aldrich syndrome) |
-| Advanced or untreated HIV infection |
-| Active treatment with: |
-| - High-dose corticosteroids (i.e., ≥20 mg prednisone or equivalent per day) |
-| - Alkylating agents, antimetabolites |
-| - Transplant-related immunosuppressive drugs |
-| - Cancer chemotherapeutic agents classified as severely immunosuppressive |
-| - Tumor-necrosis factor blockers and other biologic agents that are immunosuppressive or immunomodulatory |
-
-*Modified from references 115 and 116.*
-
-## Table 310.2: Immunodeficiencies and Associated Prevalent Pathogens {#tbl-pathogens}
+## Immunodeficiencies and Associated Prevalent Pathogens {#tbl-pathogens}
 
 | DEFECT | PATHOGEN |
 |:-------|:---------|
@@ -221,20 +235,5 @@ Nontuberculous mycobacteria cause infections in solid organ transplant recipient
 | JAK-STAT inhibitor (ruxolitinib); downregulates proinflammatory cytokines, impairs dendritic cell, natural killer cell, and CD4^+^ T-cell function | *Mycobacterium tuberculosis* |
 | | Hepatitis B reactivation |
 | PI3K inhibitor (idelalisib); specific inhibitor of phosphatidylinositol 3-kinase delta-Akt pathway B-lymphocyte signaling | *Pneumocystis jirovecii* |
-
-:::{.callout-note}
-## Clinical Pearl
-The "net state of immunosuppression" is a composite measure that includes host factors, underlying disease, treatment effects, and other variables that contribute to infection risk. This concept helps clinicians assess individual patient risk and guide preventive strategies.
-:::
-
-:::{.callout-note}
-## Key Point: Timing of Infections
-Solid organ and stem cell transplant recipients are at highest risk for infection in the first 100 days after transplant, with the risk gradually falling over the next 1–2 years. The timing of specific infections varies based on the type of immunosuppression and prophylactic strategies used.
-:::
-
-:::{.callout-note}
-## Clinical Pearl: Prophylaxis
-Trimethoprim-sulfamethoxazole prophylaxis against *Pneumocystis* also provides coverage against *Toxoplasma*, *Staphylococcus aureus*, *Nocardia*, and numerous other gram-positive and gram-negative organisms. Substitutes such as atovaquone, dapsone, and inhaled pentamidine have much narrower coverage.
-:::
 
 # References
