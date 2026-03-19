@@ -1,5 +1,5 @@
 ---
-title: "Immunosuppression: An overview"
+title: "Immunosuppression: An overview of infection risk"
 author: "Russell E. Lewis"
 date: "2026-03-01"
 format:
@@ -15,7 +15,7 @@ bibliography: references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Immununosuppression: An Overview {background-color="#9B0014"}
+## Immununosuppression: <br>An Overview of Infection Risk {background-color="#9B0014"}
 
 <br> <br>
 
@@ -57,7 +57,7 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 
 **Major categories:**
 
--   Active treatment for malignancies
+-   Active treatment (chemotherapy) for malignancies
 -   Solid organ transplant (SOT)
 -   Hematopoietic cell transplant (HCT)
 -   CAR-T cell therapy
@@ -68,16 +68,17 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 # The net state of immunosuppression {background-color="#9B0014"}
 
 ## Defining net state of immunosuppression
+<br>
 
-<center>**A concept by Dr. Robert Rubin** (MGH Boston):</center>
+<center>**A concept by Dr. Robert Rubin** (Massachusetts General Hospital-Harvard, Boston): <br> "Father" of transplant infectious diseases" </center>
 
 ![](images/Rubin.png){fig-align="center" width="300"}
 
 "Composite of host factors, underlying disease, treatment, and other factors contributing to infection risk"
 
-::: fragment
-"Every organ in the human body is interesting....but becomes more interesting when infected"
-:::
+<br>
+
+<br>
 
 ::: aside
 This remains one of the most useful conceptual frameworks for thinking about infection risk in immunocompromised patients. It emphasizes that no single test can quantify immunosuppression—clinical judgment integrating multiple factors is required.
@@ -159,7 +160,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 <br>
 
 | Type | Stem Cell Source | Donor | Immunosuppression |
-|----------------|-------------------|----------------|----------------------|
+|------------------|------------------|------------------|------------------|
 | **Autologous** | Peripheral blood, Bone marrow | Self | Moderate; no GvHD prophylaxis required; recovery within weeks |
 | **Allogeneic — matched related** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched sibling or family member | Severe; prolonged due to GvHD prophylaxis and risk of GvHD |
 | **Allogeneic — matched unrelated (MUD)** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched unrelated donor (registry) | Very severe; higher GvHD risk than matched related; intensive prophylaxis |
