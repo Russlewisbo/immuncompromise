@@ -68,11 +68,14 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 # The net state of immunosuppression {background-color="#9B0014"}
 
 ## Defining net state of immunosuppression
+
 <br>
 
-<center>**A concept by Dr. Robert Rubin** (Massachusetts General Hospital-Harvard, Boston): <br> "Father" of transplant infectious diseases" </center>
+<center>**A concept by Dr. Robert Rubin** (Massachusetts General Hospital-Harvard, Boston): <br> "Father" of transplant infectious diseases"</center>
 
-![](images/Rubin.png){fig-align="center" width="300"}
+<br>
+
+![](images/Rubin.png){fig-align="center" width="150"}
 
 "Composite of host factors, underlying disease, treatment, and other factors contributing to infection risk"
 
@@ -84,7 +87,7 @@ This is a rapidly growing population due to advances in transplantation, cancer 
 This remains one of the most useful conceptual frameworks for thinking about infection risk in immunocompromised patients. It emphasizes that no single test can quantify immunosuppression—clinical judgment integrating multiple factors is required.
 :::
 
-## Components of the "net immunosuppresed state"
+## Components of the "net immunosuppressed state"
 
 <br>
 
@@ -132,9 +135,8 @@ This remains one of the most useful conceptual frameworks for thinking about inf
 :::
 :::::
 
-# Infectious Complications & Mortality {background-color="#9B0014"}
-
 ## SOT Recipients
+
 <br>
 
 ::::: columns
@@ -158,8 +160,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 
 ## Hematopoetic stem cell transplantation (HSCT) recipients {.smaller}
 
-<br>
-<br>
+<br> <br>
 
 | Type | Stem Cell Source | Donor | Immunosuppression |
 |------------------|------------------|------------------|------------------|
@@ -253,7 +254,7 @@ Unfortunately, we lack reliable composite markers or algorithms to predict infec
 
 <br> <br>
 
-:::aside
+::: aside
 PHA- Phytohemagglutinin (T-cell mitogen-polyclonal activation); 👉 ATP = proxy for T-cell activation strength
 :::
 
@@ -281,6 +282,8 @@ PHA- Phytohemagglutinin (T-cell mitogen-polyclonal activation); 👉 ATP = proxy
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
 Key pathogens to screen for and monitor:
 
 -   *Mycobacterium tuberculosis*
@@ -288,6 +291,12 @@ Key pathogens to screen for and monitor:
 -   Hepatitis B
 -   *Coccidioides*, *Histoplasma*
 -   *Trypanosoma cruzi* (Chagas)
+:::
+
+::: {.column width="50%"}
+![](images/TB_findings.png){fig-align="center"}
+:::
+:::::
 
 ## Donor-derived infections
 
@@ -377,18 +386,6 @@ Key pathogens to screen for and monitor:
 -   Explains cellular immunodeficiency susceptibility
 -   Targeted therapies can have **unexpected effects**
 
-::: aside
-Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has broader effects on macrophage function contributing to aspergillosis risk.
-:::
-
-## Ibrutinib
-
-![](images/ibrutinib.png){fig-align="center" width="1600"}
-
-## Unexpected fungal infections
-
-![](images/cns_aspergillosis.png){fig-align="center" width="1600"}
-
 ## NK cells and platelets
 
 <br>
@@ -407,11 +404,25 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 
 -   Protection against yeast and molds
 
-## Cellular immunity
+# Cellular Immunity {background-color="#9B0014"}
 
-<br>
+## Specific cell-mediated immune defects: <br>Th1 and CTL-driven immunity
 
-**Drugs that impair T-cell function:**
+![](images/CMI_Th1.png){fig-align="center" width="1500"}
+
+## Specific cell-mediated immune defects: <br>Th2 and CTL-driven immunity
+
+![](images/CMI_Th2.png){fig-align="center" width="1500"}
+
+## Cell-mediated driven allergy
+
+![](images/CMI_allergy.png){fig-align="center" width="1500"}
+
+## Drugs that impair cell-mediated immunity
+
+<br> <br>
+
+**Common drugs that impair T-cell function:**
 
 -   Corticosteroids
 -   Azathioprine, cyclosporine, tacrolimus
@@ -421,7 +432,7 @@ Ibrutinib is a good example—designed as a BTK inhibitor for B cells, but has b
 
 **Diseases:** Hodgkin lymphoma, CLL
 
-## Targeted therapy risks
+## Examples of "Targeted therapy" risks
 
 <br>
 
@@ -439,6 +450,18 @@ If you see a drug ending in "mab" or "nib" or "sib" ....consider unique infectio
 mab- monoclonal antibody-large protein biologic usually IV that binds extracellular targets (receptors, cytokines, cells); nib-small molecule inhibitor, usually oral- Enters cells and block intracellular signaling pathways;sib- signal inhibitor or nib-like drug
 :::
 
+## Ibrutinib
+
+![](images/ibrutinib.png){fig-align="center" width="1600"}
+
+## Unexpected fungal infections
+
+<br>
+
+![](images/cns_aspergillosis.png){fig-align="center" width="1600"}
+
+# Infectious Complications & Mortality {background-color="#9B0014"}
+
 ## Humoral immunity
 
 <br>
@@ -448,7 +471,7 @@ mab- monoclonal antibody-large protein biologic usually IV that binds extracellu
 -   Rituximab, CAR-T → **B-cell depletion**
 -   Profound, long-lasting hypogammaglobulinemia
 
-**Splenectomy:** Loss of encapsulated bacteria defense-big 3
+**Splenectomy:** Loss of encapsulated bacteria defense-"Big 3"
 
 -   *Streptococcus pneumoniae*
 
@@ -460,7 +483,7 @@ mab- monoclonal antibody-large protein biologic usually IV that binds extracellu
 
 Less common: *Capnocytophaga canimorsus, Salmonella spp. E. coli*
 
-PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 weeks before elective splenectomy or 2 weeks after emergency splenetocmy
+PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Patients should receive vaccines 2 weeks before elective splenectomy or 2 weeks after emergency splenetocmy
 
 # Physical Barriers {background-color="#9B0014"}
 
@@ -468,6 +491,8 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 
 ## The Integument
 
+::::: columns
+::: {.column width="50%"}
 **Skin:**
 
 -   Chemotherapy → hair loss, dryness
@@ -477,15 +502,29 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 **Oropharynx:**
 
 -   Xerostomia + antibiotics → thrush, bacterial overgrowth
+:::
+
+::: {.column width="50%"}
+![](images/PICC.png)
+:::
+:::::
 
 ## Alimentary Tract
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
+![](images/mucositis.png)
+:::
+
+::: {.column width="50%"}
 -   **Microbiome disruption** with antibiotics→ *C. difficile*
 -   Mucosal barrier injury from chemotherapy
 -   Facilitates bacterial translocation
 -   With concomitant neutropenia allows progression to sepsis
+:::
+:::::
 
 # Immunodeficiency-Pathogen Associations {background-color="#9B0014"}
 
@@ -575,6 +614,27 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 
 # Prevention Strategies {background-color="#9B0014"}
 
+## Pre-immunosuppression screening {.smaller}
+
+<br>
+
+**Screen before starting immunosuppressive therapy:**
+
+| Pathogen | Test | Action if Positive |
+|------------------------|------------------------|------------------------|
+| *M. tuberculosis* | IGRA (QuantiFERON) or TST | Isoniazid or rifampin prophylaxis |
+| Hepatitis B | HBsAg, anti-HBc, anti-HBs | Antiviral prophylaxis (entecavir/tenofovir) |
+| Hepatitis C | Anti-HCV, HCV RNA | Treat prior to immunosuppression if possible |
+| HIV | 4th-gen Ag/Ab | ART optimization |
+| *Strongyloides* | Serology (endemic areas/travel) | Ivermectin × 2 doses |
+| *T. cruzi* | Serology (Latin American origin) | Benznidazole prophylaxis |
+| VZV | IgG serology | Vaccinate if seronegative (pre-therapy) |
+| *Coccidioides/Histoplasma* | Serology (endemic exposure) | Antifungal prophylaxis |
+
+::: aside
+Screening should be completed **before** initiating therapy when possible. Positive results may alter the timing or intensity of immunosuppression.
+:::
+
 ## Prophylaxis principles
 
 <br>
@@ -592,6 +652,196 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Vaccinate 2 w
 Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. Can use - 1 DS tablet 3×/week (e.g., Mon–Wed–Fri) or even single-strength daily. Add folic acid if patient has anemia or leukopenia. Valganciclovir is assocaited with dose-limiting myelosuppression. Letermovir has fewer adverse effects but is more expensive
 :::
 
+## Antifungal prophylaxis {.smaller}
+
+<br>
+
+**Risk-stratified approach:**
+
+::::: columns
+::: {.column width="50%"}
+**High-risk indications (mold-active prophylaxis):**
+
+-   AML induction/consolidation chemotherapy
+-   Allogeneic HSCT recipients
+-   Active GVHD on high-dose steroids
+-   Lung transplant recipients
+
+**Agents of choice:** - Posaconazole (oral suspension or tablet) - Voriconazole (alternative) - Micafungin (IV, if oral not tolerated)
+:::
+
+::: {.column width="50%"}
+**Lower-risk indications (Candida prophylaxis only):**
+
+-   Autologous HSCT
+-   Prolonged neutropenia (\>7 days)
+-   Mucositis + broad-spectrum antibiotics
+
+**Agents of choice:** - Fluconazole - Micafungin
+:::
+:::::
+
+::: aside
+Posaconazole delayed-release tablets have more predictable bioavailability than the oral suspension. Monitor for drug-drug interactions—azoles inhibit CYP3A4 and significantly elevate tacrolimus, cyclosporine, and sirolimus levels.
+:::
+
+## HBV reactivation prevention
+
+<br>
+
+**A critical and underrecognized risk:**
+
+-   HBV reactivation can occur with **any immunosuppressive regimen**
+-   Risk highest with: rituximab, anti-CD20 agents, anthracycline chemotherapy, corticosteroids ≥ 20 mg/day for ≥4 weeks, stem cell transplant
+
+::::: columns
+::: {.column width="50%"}
+**Who to treat:**
+
+-   HBsAg(+): **always** give prophylaxis
+-   HBsAg(-)/anti-HBc(+): prophylaxis if high-risk regimen
+-   Reactivation mortality: **up to 25%** without prophylaxis
+:::
+
+::: {.column width="50%"}
+**Prophylaxis options:**
+
+-   **Entecavir** (preferred — high barrier to resistance)
+-   **Tenofovir** (TDF or TAF)
+-   Duration: continue **6–12 months after** cessation of immunosuppression (18–24 months for anti-CD20)
+:::
+:::::
+
+::: aside
+Monitor HBV DNA every 1–3 months during therapy. A rise in HBV DNA despite prophylaxis warrants resistance testing and regimen change.
+:::
+
+## Preemptive vs. prophylactic strategies for CMV
+
+<br>
+
+**Two complementary approaches:**
+
+::::: columns
+::: {.column width="50%"}
+**Prophylaxis** (preferred when risk is high):
+
+-   Universal antiviral drug for defined at-risk period
+-   **Letermovir** (CMV D+/R− or R+ allo-HSCT)
+-   **Valganciclovir** (SOT, especially lung/heart recipients)
+-   Advantage: prevents CMV disease directly
+-   Disadvantage: late-onset CMV, drug toxicity, cost
+:::
+
+::: {.column width="50%"}
+**Preemptive therapy** (intermediate risk):
+
+-   Regular **CMV PCR surveillance** (every 1–2 weeks)
+-   Treat when viral load crosses threshold before disease
+-   Advantage: less antiviral exposure
+-   Disadvantage: requires rigorous monitoring; may miss rapid progressors
+:::
+:::::
+
+::: aside
+Choice of strategy depends on donor/recipient serostatus, transplant type, and institutional resources. D+/R− allo-HSCT patients have highest CMV risk and benefit most from prophylaxis.
+:::
+
+## Vaccination: Solid Organ Transplant recipients {.smaller}
+
+<br>
+
+**Core principle:** Vaccinate **before** transplant whenever possible — responses are significantly blunted post-transplant on maintenance immunosuppression.
+
+| Vaccine | Pre-transplant | Post-transplant | Notes |
+|------------------|------------------|------------------|------------------|
+| Influenza (inactivated) | ✅ Annually | ✅ Annually (≥1 month post-Tx) | Live attenuated influenza: **contraindicated** |
+| Pneumococcal (PCV20) | ✅ ≥2 weeks before | ✅ ≥3–6 months post-Tx | Booster PPSV23 at 5 years if PCV15 series used |
+| COVID-19 (mRNA) | ✅ | ✅ ≥1 month post-Tx; extra doses often needed | Check serology — responses frequently inadequate |
+| Hepatitis B (double-dose) | ✅ Check anti-HBs | ✅ If not immune; confirm with anti-HBs | Anti-HBs target ≥10 IU/L |
+| Tdap / Td | ✅ | ✅ ≥6 months post-Tx | Pertussis booster every 10 years |
+| MMR, VZV (live) | ✅ ≥4 weeks before | ❌ **Contraindicated** post-transplant | Vaccinate seronegative candidates pre-listing |
+| HPV | ✅ (if age-eligible) | ✅ ≥6 months post-Tx | 3-dose series; may respond poorly |
+
+::: aside
+Household contacts and close caregivers should receive annual influenza (inactivated), MMR, and varicella vaccines to create a "cocoon" of protection. Verify VZV and measles serostatus in all transplant candidates.
+:::
+
+## Vaccination: Hematopoietic stem cell transplant recipients {.smaller}
+
+<br>
+
+**Core principle:** HSCT ablates immune memory — recipients must be **fully revaccinated** post-transplant regardless of pre-transplant history.
+
+| Vaccine | Timing Post-HSCT | Notes |
+|------------------------|------------------------|------------------------|
+| Influenza (inactivated) | ≥6 months (or ≥4 months during seasonal outbreak) | Annual; live influenza **contraindicated** |
+| Pneumococcal (PCV20/PCV15 × 3, then PPSV23) | Start at **3–6 months** | 3-dose PCV series then PPSV23 ≥8 weeks later |
+| COVID-19 (mRNA) | ≥3–6 months; 3-dose primary series | Check serology; additional doses often needed in GVHD |
+| Hepatitis B (double-dose × 3) | ≥6 months | Confirm anti-HBs ≥10 IU/L; re-dose if inadequate |
+| Tdap, then Td boosters | ≥6 months | 3-dose diphtheria/tetanus/pertussis series |
+| Inactivated polio (IPV) | ≥6 months | 3-dose series; OPV **contraindicated** |
+| Haemophilus influenzae b (Hib) | ≥6 months | 3-dose series; covers encapsulated bacteria |
+| Meningococcal (ACWY + B) | ≥6 months | Important in asplenic/hyposplenic post-HSCT |
+| MMR, VZV (live) | **≥24 months** post-HSCT | Only if: off all immunosuppression, no active GVHD, CD4 ≥200 |
+
+::: aside
+Revaccination should be **delayed** during active GVHD or while on immunosuppressive therapy beyond standard prophylaxis. Serologic testing 4–8 weeks after vaccination helps confirm adequate responses.
+:::
+
+## Immunoglobulin replacement therapy
+
+<br>
+
+**Indications:**
+
+-   Severe hypogammaglobulinemia (IgG \<400 mg/dL) with recurrent infections
+-   Post-rituximab or CAR-T B-cell aplasia
+-   Common variable immunodeficiency (CVID)
+-   Post-HSCT (selected patients)
+
+::::: columns
+::: {.column width="50%"}
+**Products:**
+
+-   **IVIG** (intravenous): 0.4–0.6 g/kg every 3–4 weeks
+-   **SCIG** (subcutaneous): home infusion, more stable IgG trough levels
+:::
+
+::: {.column width="50%"}
+**Monitoring:**
+
+-   Target trough IgG \>500–700 mg/dL
+-   Adjust dose based on infection breakthrough
+-   Duration: until immune reconstitution (may be 1–3 years)
+:::
+:::::
+
+::: aside
+SCIG is increasingly preferred for patient convenience and more stable pharmacokinetics. Cost and insurance coverage remain barriers in many settings.
+:::
+
+## Environmental & infection control measures
+
+<br>
+
+**Hospital setting (high-risk patients):**
+
+-   **HEPA-filtered rooms** with positive pressure for prolonged neutropenia and allo-HSCT
+-   Avoid construction/renovation zones (aerosolized *Aspergillus*)
+-   Strict hand hygiene — single most effective infection prevention measure
+-   Central line bundles to reduce CLABSI
+
+**Dietary precautions (neutropenic diet — evidence limited but commonly practiced):**
+
+-   Avoid raw/undercooked meat, eggs, unpasteurized products
+-   Wash fruits and vegetables thoroughly
+-   No well-ripened soft cheeses (*Listeria*)
+
+::: aside
+The evidence base for strict "neutropenic diet" is weak; current IDSA/ASBMT guidelines suggest emphasis on food safety practices rather than highly restrictive diets. HEPA filtration has stronger evidence for preventing invasive mold infections.
+:::
+
 ## Patient education
 
 <br>
@@ -603,6 +853,19 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 -   Marijuana smoking (*Aspergillus*)
 -   Raw seafood (*Vibrio*)
 -   Warm ocean swimming
+
+## Prophylaxis by immunodeficiency type {.smaller}
+
+<br>
+
+| Defect | Representative Conditions | Antibacterial | Antifungal | Antiviral | Other |
+|------------|------------|------------|------------|------------|------------|
+| **Neutropenia** <br>(profound, \>7d) | AML induction, allo-HSCT engraftment | Levofloxacin† | Posaconazole (high-risk) / fluconazole | Acyclovir (HSV) | G-CSF if prolonged |
+| **T-cell deficiency** | Allo-HSCT, calcineurin inhibitors, alemtuzumab, CAR-T | TMP-SMX (PJP, *Nocardia*, *Toxoplasma*) | Posaconazole / voriconazole | Letermovir or valganciclovir (CMV); acyclovir (HSV/VZV) | Screen for LTBI, *Strongyloides*; CMV surveillance |
+| **Humoral / B-cell deficiency** | Rituximab, CAR-T, CLL, myeloma | TMP-SMX (PJP); consider azithromycin | Not routinely required | Acyclovir; monitor for enterovirus | IVIG if IgG \<400 mg/dL + recurrent infections |
+| **Hypogammaglobulinemia** | CVID, post-HSCT (late phase) | TMP-SMX or azithromycin | Not routinely required | Acyclovir | IVIG/SCIG replacement; PCV20, HIB, MenACWY vaccines |
+| **Asplenia / functional hyposplenism** | Splenectomy, sickle cell, splenic irradiation | Penicillin V / amoxicillin (lifelong in many) | Not routinely required | Not routinely required | PCV20 + PPSV23, MenACWY + MenB, HIB, annual influenza; emergency antibiotic supply |
+| **Combined severe defect** | Allo-HSCT + active GVHD, prolonged combination IS | TMP-SMX | Posaconazole (mold-active) | Letermovir / valganciclovir + acyclovir | IVIG; preemptive CMV PCR monitoring; TB/HBV prophylaxis as indicated |
 
 # Key Takeaways {background-color="#9B0014"}
 
@@ -624,7 +887,7 @@ Problem with TMP/SMX- rash, GI upset, and cytopenias—often limits adherence. C
 
 -   TMP-SMX provides broader coverage than just PJP prophylaxis
 -   Timing matters—early vs late infections differ
--   Targeted therapies have unexpected infection risks
+-   Targeted therapies (-mabs -nibs) have unexpected infection risks
 -   Consider the whole patient, not just the lab values
 :::
 
