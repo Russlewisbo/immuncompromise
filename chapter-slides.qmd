@@ -30,7 +30,7 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 </center>
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | ![](images/dmmunipd_logo.jpeg){width="150"} | ![](images/unipd_seal_white.svg){width="200"} |
 
 # Introduction & Epidemiology {background-color="#9B0014"}
@@ -163,7 +163,7 @@ SOT recipients face particular risks from surgical complications, hardware-relat
 <br> <br>
 
 | Type | Stem Cell Source | Donor | Immunosuppression |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Autologous** | Peripheral blood, Bone marrow | Self | Moderate; no GvHD prophylaxis required; recovery within weeks |
 | **Allogeneic — matched related** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched sibling or family member | Severe; prolonged due to GvHD prophylaxis and risk of GvHD |
 | **Allogeneic — matched unrelated (MUD)** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched unrelated donor (registry) | Very severe; higher GvHD risk than matched related; intensive prophylaxis |
@@ -408,15 +408,15 @@ Key pathogens to screen for and monitor:
 
 ## Specific cell-mediated immune defects: <br>Th1 and CTL-driven immunity
 
-![](images/CMI_Th1.png){fig-align="center" width="1500"}
+![](images/CMI_Th1.png){fig-align="center" width="800"}
 
 ## Specific cell-mediated immune defects: <br>Th2 and CTL-driven immunity
 
-![](images/CMI_Th2.png){fig-align="center" width="1500"}
+![](images/CMI_Th2.png){fig-align="center" width="800"}
 
 ## Cell-mediated driven allergy
 
-![](images/CMI_allergy.png){fig-align="center" width="1500"}
+![](images/CMI_allergy.png){fig-align="center" width="800"}
 
 ## Drugs that impair cell-mediated immunity
 
@@ -621,7 +621,7 @@ PSV and PPSV23 vaccine, MENACWY and MenB vaccine, HIB, Influenzae- Patients shou
 **Screen before starting immunosuppressive therapy:**
 
 | Pathogen | Test | Action if Positive |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | *M. tuberculosis* | IGRA (QuantiFERON) or TST | Isoniazid or rifampin prophylaxis |
 | Hepatitis B | HBsAg, anti-HBc, anti-HBs | Antiviral prophylaxis (entecavir/tenofovir) |
 | Hepatitis C | Anti-HCV, HCV RNA | Treat prior to immunosuppression if possible |
@@ -754,7 +754,7 @@ Choice of strategy depends on donor/recipient serostatus, transplant type, and i
 **Core principle:** Vaccinate **before** transplant whenever possible — responses are significantly blunted post-transplant on maintenance immunosuppression.
 
 | Vaccine | Pre-transplant | Post-transplant | Notes |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Influenza (inactivated) | ✅ Annually | ✅ Annually (≥1 month post-Tx) | Live attenuated influenza: **contraindicated** |
 | Pneumococcal (PCV20) | ✅ ≥2 weeks before | ✅ ≥3–6 months post-Tx | Booster PPSV23 at 5 years if PCV15 series used |
 | COVID-19 (mRNA) | ✅ | ✅ ≥1 month post-Tx; extra doses often needed | Check serology — responses frequently inadequate |
@@ -774,7 +774,7 @@ Household contacts and close caregivers should receive annual influenza (inactiv
 **Core principle:** HSCT ablates immune memory — recipients must be **fully revaccinated** post-transplant regardless of pre-transplant history.
 
 | Vaccine | Timing Post-HSCT | Notes |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Influenza (inactivated) | ≥6 months (or ≥4 months during seasonal outbreak) | Annual; live influenza **contraindicated** |
 | Pneumococcal (PCV20/PCV15 × 3, then PPSV23) | Start at **3–6 months** | 3-dose PCV series then PPSV23 ≥8 weeks later |
 | COVID-19 (mRNA) | ≥3–6 months; 3-dose primary series | Check serology; additional doses often needed in GVHD |
@@ -859,7 +859,7 @@ The evidence base for strict "neutropenic diet" is weak; current IDSA/ASBMT guid
 <br>
 
 | Defect | Representative Conditions | Antibacterial | Antifungal | Antiviral | Other |
-|----|----|----|----|----|----|
+|------------|------------|------------|------------|------------|------------|
 | **Neutropenia** <br>(profound, \>7d) | AML induction, allo-HSCT engraftment | Levofloxacin† | Posaconazole (high-risk) / fluconazole | Acyclovir (HSV) | G-CSF if prolonged |
 | **T-cell deficiency** | Allo-HSCT, calcineurin inhibitors, alemtuzumab, CAR-T | TMP-SMX (PJP, *Nocardia*, *Toxoplasma*) | Posaconazole / voriconazole | Letermovir or valganciclovir (CMV); acyclovir (HSV/VZV) | Screen for LTBI, *Strongyloides*; CMV surveillance |
 | **Humoral / B-cell deficiency** | Rituximab, CAR-T, CLL, myeloma | TMP-SMX (PJP); consider azithromycin | Not routinely required | Acyclovir; monitor for enterovirus | IVIG if IgG \<400 mg/dL + recurrent infections |
